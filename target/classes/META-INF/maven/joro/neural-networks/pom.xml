@@ -37,8 +37,8 @@
    </dependency>
   </dependencies>
   <scm>
-	<connection>scm:git@github.com:georgiv/neural-networks-maven.git</connection>
+	<connection>scm:git:git@github.com:georgiv/neural-networks-maven.git</connection>
 	<url>scm:git:git@github.com:georgiv/neural-networks-maven.git</url>
-	<developerConnection>scm:git@github.com:georgiv/neural-networks-maven.git</developerConnection>
+	<developerConnection>scm:git:git@github.com:georgiv/neural-networks-maven.git</developerConnection>
   </scm>
 </project>
